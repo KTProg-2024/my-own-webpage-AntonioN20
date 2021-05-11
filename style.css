@@ -19,5 +19,30 @@ h3 {
 
 body {
   font-family:Arial, Helvetica, sans-serif;
-  background-color:gray;
+  background-color:gray !important;
+}
+
+a {
+  color:violet;
+}
+
+table {
+  color:goldenrod;
+}
+
+th {
+  color:Blue;
+}
+
+.red {
+  color:red;
+  font-weight:bold;
+}
+
+li {
+  color:goldenrod !important;
+}
+
+.black {
+  color:black;
 }
